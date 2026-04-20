@@ -2,5 +2,6 @@
 “This is a representation of an unfinished function a group member is working
 on.”
 This is a representation of an unfinished function a group member is working on
+This is the changes made to this branch while you were working on rb-test
 This is a new change from Ethan Rosentreter
 This is a new change from Aiden Rohde
